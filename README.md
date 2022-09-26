@@ -1,6 +1,5 @@
-## Fizz Buzz Example in Java 8 using JUnit 5
+## Example Repo for learning Jenkins, CSCI435 Fall 2022 Group #2: DevOps Presentation
 
-### Fizz Buzz is a game where
-- if the number is divisible by 3, you say Fizz
-- if the number is divisible by 5, you say Buzz
-- if neither, you say the number
+### Copied from the repo from Tech Primers
+The original repo can be found here: https://github.com/TechPrimers/jenkins-example
+Tech Primers' video can be found here: https://www.youtube.com/watch?v=s73nhwYBtzE
